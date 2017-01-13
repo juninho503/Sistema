@@ -894,7 +894,7 @@ namespace Negocios
                 throw new Exception("Nenhum Cliente Encontrado" + ex.Message);
             }
         }
-        //metodo para carregar combobox de banco
+        
        
     }
 }
