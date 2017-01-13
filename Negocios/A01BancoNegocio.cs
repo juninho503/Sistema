@@ -7,6 +7,8 @@ using ObjetoTransferencia;
 using AcessaBancoDados;
 using System.Data;
 
+//luiz viado
+
 namespace Negocios
 {
   public class A01BancoNegocio
